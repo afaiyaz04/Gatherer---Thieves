@@ -1,0 +1,3 @@
+The code is for a game created by Ahbab Faiyaz studentID: 1045377
+using BAGEL Library's Abstract class AbstractGame
+The game makes objects reading from the input file and makes them move specifically
